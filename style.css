@@ -1,0 +1,66 @@
+.image {
+    height: auto;
+    width: 400px;  
+}
+.imgCont {
+    text-align: center;
+}
+
+.tots {
+    height: auto;
+    width: 300px;
+}
+
+.totsCont {
+    text-align: left;
+}
+
+.bread {
+    height: auto;
+    width: 300px;  
+}
+
+.zuccCont {
+    text-align: left;
+}
+
+.cookies {
+    height: auto;
+    width: 300px;
+}
+
+.cookieCont {
+    text-align: left;
+}
+
+h1 {
+    color: aquamarine;
+    background-color: coral;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 100;
+}
+
+h2 {
+background-color: aquamarine;
+color: coral;
+font-size: 32px;
+font-weight: 200;
+text-align: center;
+}
+
+.data {
+    color: darkgray;
+    font-size: 24px;
+    text-align: justify;
+}
+
+.data.centered {
+    text-align: center;
+}
+
+.recipeList {
+    color: aquamarine;
+    font-size: 28px;
+    font-weight: 900;
+}
